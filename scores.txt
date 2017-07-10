@@ -1,0 +1,243 @@
+KEY: 100%
+------------------------------
+Question 8 is wrong!
+Question 12 is wrong!
+Question 17 is wrong!
+Question 18 is wrong!
+Question 19 is wrong!
+Question 20 is wrong!
+Question 22 is wrong!
+Question 23 is wrong!
+301184:  57%
+------------------------------
+Question 6 is wrong!
+Question 7 is wrong!
+Question 9 is wrong!
+Question 12 is wrong!
+Question 13 is wrong!
+Question 14 is wrong!
+Question 18 is wrong!
+Question 23 is wrong!
+6886:  57%
+------------------------------
+Question 17 is wrong!
+Question 20 is wrong!
+Question 23 is wrong!
+jws942:  84%
+------------------------------
+Question 2 is wrong!
+Question 3 is wrong!
+Question 5 is wrong!
+Question 6 is wrong!
+Question 8 is wrong!
+Question 10 is wrong!
+Question 17 is wrong!
+Question 19 is wrong!
+Question 20 is wrong!
+Question 21 is wrong!
+Question 22 is wrong!
+Question 24 is wrong!
+Question 25 is wrong!
+ma02214:  23%
+------------------------------
+Question 1 is wrong!
+Question 3 is wrong!
+Question 4 is wrong!
+Question 7 is wrong!
+Question 10 is wrong!
+Question 14 is wrong!
+Question 16 is wrong!
+Question 17 is wrong!
+Question 19 is wrong!
+Question 20 is wrong!
+Question 21 is wrong!
+Question 22 is wrong!
+Question 24 is wrong!
+Question 25 is wrong!
+csc406:  21%
+------------------------------
+Question 5 is wrong!
+Question 6 is wrong!
+Question 13 is wrong!
+Question 16 is wrong!
+Question 18 is wrong!
+Question 19 is wrong!
+Question 23 is wrong!
+Question 25 is wrong!
+4ebx_4000:  57%
+------------------------------
+Question 3 is wrong!
+Question 4 is wrong!
+Question 5 is wrong!
+Question 6 is wrong!
+Question 7 is wrong!
+Question 8 is wrong!
+Question 11 is wrong!
+Question 12 is wrong!
+Question 13 is wrong!
+Question 15 is wrong!
+Question 18 is wrong!
+Question 19 is wrong!
+Question 24 is wrong!
+Nogames:  31%
+------------------------------
+Question 2 is wrong!
+Question 8 is wrong!
+Question 10 is wrong!
+Question 11 is wrong!
+Question 12 is wrong!
+Question 13 is wrong!
+Question 14 is wrong!
+Question 15 is wrong!
+Question 16 is wrong!
+Question 20 is wrong!
+1215:  35%
+------------------------------
+Question 2 is wrong!
+Question 3 is wrong!
+Question 5 is wrong!
+Question 7 is wrong!
+Question 8 is wrong!
+Question 12 is wrong!
+Question 15 is wrong!
+Question 16 is wrong!
+Question 21 is wrong!
+Question 22 is wrong!
+Question 24 is wrong!
+Question 25 is wrong!
+219311:  20%
+------------------------------
+Question 16 is wrong!
+passwd:  95%
+------------------------------
+Question 1 is wrong!
+Question 10 is wrong!
+Question 16 is wrong!
+Question 17 is wrong!
+Question 18 is wrong!
+Question 20 is wrong!
+tickle:  68%
+------------------------------
+Question 1 is wrong!
+Question 5 is wrong!
+Question 15 is wrong!
+Question 17 is wrong!
+AMOY90:  79%
+------------------------------
+Question 1 is wrong!
+Question 6 is wrong!
+Question 11 is wrong!
+Question 15 is wrong!
+Question 17 is wrong!
+Question 20 is wrong!
+Question 24 is wrong!
+871:  59%
+------------------------------
+Question 3 is wrong!
+Question 13 is wrong!
+Question 18 is wrong!
+Question 20 is wrong!
+NO_KEY:  79%
+------------------------------
+Question 2 is wrong!
+Question 3 is wrong!
+Question 4 is wrong!
+Question 6 is wrong!
+Question 7 is wrong!
+Question 10 is wrong!
+Question 14 is wrong!
+Question 15 is wrong!
+Question 17 is wrong!
+Question 21 is wrong!
+Question 22 is wrong!
+Question 24 is wrong!
+5WEEKS:  36%
+------------------------------
+Question 1 is wrong!
+Question 11 is wrong!
+Question 13 is wrong!
+Question 17 is wrong!
+Question 21 is wrong!
+alpine:  73%
+------------------------------
+Question 3 is wrong!
+Question 5 is wrong!
+Question 15 is wrong!
+Question 16 is wrong!
+Question 17 is wrong!
+Question 18 is wrong!
+Question 20 is wrong!
+Question 24 is wrong!
+Rookie:  57%
+------------------------------
+Question 1 is wrong!
+Question 3 is wrong!
+Question 6 is wrong!
+Question 7 is wrong!
+Question 11 is wrong!
+Question 13 is wrong!
+Question 14 is wrong!
+Question 15 is wrong!
+Question 17 is wrong!
+Question 18 is wrong!
+Question 19 is wrong!
+Question 20 is wrong!
+Question 21 is wrong!
+Question 24 is wrong!
+1370997:  21%
+------------------------------
+Question 1 is wrong!
+Question 4 is wrong!
+Question 10 is wrong!
+Question 11 is wrong!
+Question 16 is wrong!
+Question 18 is wrong!
+Waffle:  68%
+------------------------------
+Question 2 is wrong!
+Question 11 is wrong!
+Question 12 is wrong!
+Question 13 is wrong!
+Question 17 is wrong!
+Hyper:  57%
+------------------------------
+Question 15 is wrong!
+Question 16 is wrong!
+Question 17 is wrong!
+HNK943:  84%
+------------------------------
+Question 13 is wrong!
+Question 15 is wrong!
+Question 17 is wrong!
+Question 18 is wrong!
+Question 20 is wrong!
+Question 24 is wrong!
+550055:  68%
+------------------------------
+Question 5 is wrong!
+Question 13 is wrong!
+Question 20 is wrong!
+Question 24 is wrong!
+408415:  71%
+------------------------------
+  0 0
+  5 0
+ 10 0
+ 15 0
+ 20 ****4
+ 25 0
+ 30 *1
+ 35 **2
+ 40 0
+ 45 0
+ 50 0
+ 55 ******6
+ 60 0
+ 65 ***3
+ 70 **2
+ 75 **2
+ 80 **2
+ 85 0
+ 90 0
+ 95 *1
+100 *1
